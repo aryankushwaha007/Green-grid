@@ -1,0 +1,5 @@
+1.00 Physical-Damage
+0.00 Snow-Covered
+0.00 Dusty
+0.00 Electrical-damage
+0.00 Clean

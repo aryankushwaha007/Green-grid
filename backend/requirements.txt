@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+motor
+pydantic
+ultralytics
+google-generativeai
+python-multipart
+pandas
+python-dotenv
+opencv-python-headless
